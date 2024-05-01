@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1711793992 source:d:\code\programtest2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1711789141 source:d:\code\programtest2023\calva.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+
+1711784602 d:\code\programtest2023\structs.h
+
+1711788745 source:d:\code\programtest2023\maxpara.c
+	<stdio.h>
+	<stdlib.h>
+
+1711797119 source:d:\code\programtest2023\two2ten.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1711802549 source:d:\code\programtest2023\primenumber.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
